@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\C#\Алгоритм побудови графів\main\main\bin\Debug\main.exe.config
+C:\Users\ADMIN\Desktop\C#\Алгоритм побудови графів\main\main\bin\Debug\main.exe
+C:\Users\ADMIN\Desktop\C#\Алгоритм побудови графів\main\main\bin\Debug\main.pdb
+C:\Users\ADMIN\Desktop\C#\Алгоритм побудови графів\main\main\obj\Debug\main.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\C#\Алгоритм побудови графів\main\main\obj\Debug\main.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\C#\Алгоритм побудови графів\main\main\obj\Debug\main.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\C#\Алгоритм побудови графів\main\main\obj\Debug\main.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\C#\Алгоритм побудови графів\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\C#\Алгоритм побудови графів\main\main\obj\Debug\main.exe
+C:\Users\ADMIN\Desktop\C#\Алгоритм побудови графів\main\main\obj\Debug\main.pdb
+C:\Users\ADMIN\Desktop\C#\Алгоритм побудови графів\main\main\obj\Debug\main.Form1.resources
